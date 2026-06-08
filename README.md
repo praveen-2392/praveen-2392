@@ -1,4 +1,4 @@
-# Hi 👋, I'm Praveen P
+# Hi , I'm Praveen P
 Portfolio: https://praveendep.netlify.app/
 
 Linkedin: www.linkedin.com/in/praveenp2005
