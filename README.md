@@ -2,6 +2,7 @@
 Portfolio: https://praveendep.netlify.app/
 
 Linkedin: www.linkedin.com/in/praveenp2005
+
 Gmail id: hemapriyanp@gmail.com
 
 ## 📄 Research Publication
