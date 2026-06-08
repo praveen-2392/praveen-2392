@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi 👋, I'm Praveen P
+https://praveendep.netlify.app/
+www.linkedin.com/in/praveenp2005
+hemapriyanp@gmail.com
 
-<!--
-**praveen-2392/praveen-2392** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📄 Research Publication
 
-Here are some ideas to get you started:
+### Real-Time Violence Detection System
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Published in IJRTI Journal
+
+Paper:
+https://www.ijrti.org/papers/IJRTI2605044.pdf
+
+
+## 📈 GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=praveen-2392&layout=compact&theme=tokyonight)
