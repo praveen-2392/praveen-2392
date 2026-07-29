@@ -4,7 +4,7 @@
 <p align="center">
   <a href="https://praveendep.netlify.app/">🌐 Portfolio</a> •
   <a href="https://www.linkedin.com/in/praveenp2005">LinkedIn</a> •
-  <a href="mailto:hemapriyanp@gmail.com">Email</a>
+  <a href="mailto:praveen2005dev@gmail.com">Email</a>
 </p>
 
 ---
@@ -29,17 +29,15 @@
 ### Frontend
 ![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 ### Backend
 ![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask)
 
 ### Database
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### Tools
-Git • GitHub • VS Code • IntelliJ IDEA • Eclipse • Postman
+Git • GitHub • VS Code • Eclipse • Postman
 
 ---
 
@@ -85,7 +83,7 @@ https://www.ijrti.org/papers/IJRTI2605044.pdf
 
 ## 📫 Connect With Me
 
-📧 Email: **hemapriyanp@gmail.com**
+📧 Email: **praveen2005dev@gmail.com**
 
 🌐 Portfolio: https://praveendep.netlify.app/
 
